@@ -15,6 +15,8 @@ git clone https://github.com/stojanov-d/crud-x-gate.git
 cd crud-x-gate
 ```
 
+### Normal
+
 2. Install dependencies:
 
 ```bash
@@ -26,6 +28,13 @@ npm install
 
 ```bash
 npm start
+
+```
+
+### Using Docker
+
+```bash
+docker compose up --build
 
 ```
 

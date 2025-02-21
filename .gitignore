@@ -1,3 +1,4 @@
 /node_modules
 .env
 x_gate_db_send.sql
+postgres_data
