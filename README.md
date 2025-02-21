@@ -33,7 +33,7 @@ The application should now be running on `http://localhost:3000`
 
 You can test this API using Postman or a software of your choice.
 
-### All endpoints except /register and /login require authentication via a Bearer token in the authorization header. The token is obtained from the login/register response.
+#### All endpoints except /register and /login require authentication via a Bearer token in the authorization header. The token is obtained from the login/register response.
 
 #### The API endpoints are:
 
